@@ -1,0 +1,6 @@
+{
+  "name": "HOPE Executive Hospital",
+  "description": "HOPE Executive Hospital - Premium private healthcare, executive clinics, 24/7 emergency care, clinical nutrition, and aesthetics in Faisalabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
